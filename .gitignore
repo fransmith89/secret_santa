@@ -1,2 +1,9 @@
 *.pyc
 .cache
+.eggs
+.coverage
+
+build
+dist
+myvenv
+secret_santa.egg-info
