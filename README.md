@@ -5,7 +5,8 @@ This will provide a command line interface for you to generate a Secret Santa li
 1. pip3
 
 # Running the program
-1. Run `python main.py` in secret_santa directory
+1. Add the repo onto the python path `export PYTHONPATH=$PWD`
+1. Run `python secret_santa/main.py` in secret_santa directory
 
 # Running the tests
 1. Install pytest if you do not already have it
